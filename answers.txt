@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Jose Calderon
+1. Linus Torvalds invented git
+2. Creating the Linux Operating System
+3. Git was invented in 2005
+4. git init
+5. git push pushes or adds the changes you have made to the repo on your personal computer to the repo online
+6. the purpose of a .gitignore is to avoid sharing something we dont want to share.
+7. a fork is a personal copy of someone elses code, it allows you to make changes to the code without changing the original code of the creator.
+8. a clone is a copy of a repo that you can put into a directory. you can have many clones? not sure.
+9. No, you should not put a git repo into another repo.
+10. True.
