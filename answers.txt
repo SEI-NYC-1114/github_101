@@ -1,3 +1,23 @@
 Your answers go here!
 Please include your name and number your answers.
 ===========================================
+1. Who invented Git?
+# Linus Torvalds
+2. What else is the person who invented Git famous for?
+# Dev of Linux kernel
+3. What year was Git invented?
+# 2005
+4. What is the git command to initialize a new repository?
+# git init
+5. In your own words, describe what the command git push is doing.
+# git push sends a copy of your git to your branch on github
+6. What is the purpose of a .gitignore file?
+# excludes certain files from your working directory from your githistory
+7. What is a fork? Why would you want to have a fork?
+# a fork is a copy of a git that you can use to make edits without risking the original project
+8. What is a clone? How many clones can you have?
+# there is no current limit unless your usage is limiting others from using the service
+9. Should you put a Github repository inside of another Github repository?
+# def not
+10. You can type git status at any time while in a git repository - true or false?
+# true
