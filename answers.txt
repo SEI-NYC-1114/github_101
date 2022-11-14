@@ -1,3 +1,25 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Isaac Okpara
+Quiz Questions
+1. Who invented Git?
+-Git was invented by Linus Torvalds in 2005.
+2. What else is the person who invented Git famous for?
+-He is also the developer of the Linux Kernel.
+3. What year was Git invented?
+-See answer to question 1.
+4. What is the git command to initialize a new repository?
+-git init
+5. In your own words, describe what the command git push is doing.
+-The command git push takes your latest commit and uploads it from your local repository to Github.
+6. What is the purpose of a .gitignore file?
+-The .gitgnore file prevents the upload of any file type which is listed on the file. Ths prevents unwanted data from being sent too Github for the world to see.
+7. What is a fork? Why would you want to have a fork?
+-A fork is basically a copy of another entitity's repository to do as you please with. You want to have a fork so you can experiment with another persons code without the fear of ruining their copy.
+8. What is a clone? How many clones can you have?
+-A clone is a copy of a forked repository. You can make as many clones as you so desire.
+9. Should you put a Github repository inside of another Github repository?
+Absolutely not apparently.
+10. You can type git status at any time while in a git repository - true or false?
+true.
