@@ -1,3 +1,20 @@
 Your answers go here!
 Please include your name and number your answers.
+
+Name: Justin Ozkan 
+
+1.) git was invented by Linus Torvalds 
+
+2.) Linus Torvalds  is also known for founding Linux 
+
+3.) git was relased in April 2005
+
+4.)git init 
+
+5.) git push 
+
+
+
+
+
 ==================================================
