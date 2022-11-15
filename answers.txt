@@ -1,3 +1,15 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Alex L. Chang - github_101 Quiz Answers
+
+1. Linus Torvalds 
+2. Invented Linux 
+3. 2005.
+4. git init
+5. git push takes a locally amended repository and uploads it to non-local, or remote, repository
+6. A .gitignore file indicates to Git which files to ignore and remain untracked.
+7. Forks generate copies of code that allows the forker to make changes without impacting the original code. Per GitHub, it allows a developer to recommend changes to the initial creator or to create a new project with the forked code as a foundation. 
+8. A clone is a copy of an established repository. You can clone once per directory.
+9. No
+10. True
