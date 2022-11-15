@@ -2,3 +2,14 @@ Your answers go here!
 Please include your name and number your answers.
 ==================================================
 Edward J. Olstrom III
+
+1. The creator of git: Linus Torvalds
+2. He was also the creator of the Linux operating system
+3. Git was invented in 2005
+4. git init - initializes a new repository
+5. git push adds all completed work onto the created repository
+6. The purpose of gitignore files is to ensure that certain files not tracked by Git remain untracked
+7. A fork is when you create your own version of a repository to make your own updates. You would want to create a fork if you wanted to add code to something or make edits to like in this class an assignment
+8. is primarily used to point to an existing repo and make a clone or copy of that repo in a new directory, changing the location
+9. This would be called a submodule and it allows you to keep a Git repository as a subdirectory of another Git repository. Allows for your commits to be separate
+10. true- as long as you are in a git controlled directory
