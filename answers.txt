@@ -1,3 +1,15 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+samantha delacruz
+
+1.Linus Torvalds
+2. created the Linux kernel and oversaw open source development of the widely-used Linux operating system
+3. 2005
+4. gitinit
+5.Houses the code for the project
+6.to ensure that certain files not tracked by Git remain untracked. 
+7.Forks are made to use someones project as a starting point or propose changes the the already made project without changing it
+8. primarily used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location. You can have two clones
+9. no never
+10. true
