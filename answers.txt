@@ -35,6 +35,6 @@ NEVER!
 
 
 
-#### 10. You can type `git status` at any time while in a git repository - true or false?
+#### 10. You can type `git status` at any time while in a git repository - true or false? true
 
 
