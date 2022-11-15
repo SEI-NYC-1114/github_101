@@ -1,3 +1,40 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+Name: Ryan Ehrlich
+
+## Quiz Questions
+
+#### 1. Who invented Git?
+Linus Torvalds
+
+#### 2. What else is the person who invented Git famous for?
+He created the Linux kernel and oversaw open source development of the widely-used Linux operating system
+
+#### 3. What year was Git invented?
+2005
+
+#### 4. What is the git command to initialize a new repository?
+git init
+
+#### 5. In your own words, describe what the command `git push` is doing.
+Git push uploads your file to git hub where the changes are noted against the original for someone to review and/or accept the changes proposed (or to tell you that your idea was terrible and you should try again)
+
+#### 6. What is the purpose of a `.gitignore` file?
+To ignore files that should not be on a public server such as passwords
+
+#### 7. What is a fork? Why would you want to have a fork?
+A fork is how to select a repository that you're going to edit  
+
+#### 8. What is a clone? How many clones can you have?
+Cloning is copying the repository (or a piece of it) so that you can make changes/updates/enhancements.  I believe you can have as many as you'd like but I think it would get confusing with too many, no?
+
+#### 9. Should you put a Github repository inside of another Github repository?
+NEVER!
+
+
+
+#### 10. You can type `git status` at any time while in a git repository - true or false?
+
+
