@@ -2,3 +2,13 @@ Your answers go here!
 Please include your name and number your answers.
 ==================================================
 Vasilis Myrianthopoulos
+1. Linus Torvalds
+2. Created the linux kernel
+3. 2005
+4. git init
+5. So you can trasnfer your commits from your local repository to a remote repository
+6. Makes sure git does not track certain files that need to remain untracked
+7. It's your own copy of a repository. It's important so the original does not get touched and stays the same.
+8. Git clone command makes copies of existing git repositories. Unlimited?
+9. Submodules allow this but it is a bad idea to share especially when the code changes frequently.
+10. True
