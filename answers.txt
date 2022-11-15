@@ -5,13 +5,26 @@ Name: Justin Ozkan
 
 1.) git was invented by Linus Torvalds 
 
-2.) Linus Torvalds  is also known for founding Linux 
+2.) Linus Torvalds is also known for founding Linux 
 
 3.) git was relased in April 2005
 
 4.)git init 
 
-5.) git push 
+5.) git push, "pushes" the the respository you're currently working on(i.e local) to a remote respository on github. In other words it hosts your work/code online.
+
+6.) gitignore allows developers to upload files and folders of a given despository while ignoring or omiting certain files or folders within that despoitory. There are certain data types that would complicate deployments or which have sesatiev information that should not be uploaded to github. 
+
+
+7.) Forking is the process of copying a code to one's personal github account. This action allows the user to take a shared code on github and trafesr it to their local depository in order to edit and test. 
+
+
+8.) Once the code is forked, it is tranfesrfed to a users local repository through the cloning method. This invloves taking the URL of the forked code, and calling it in the terminal. A user can have an unlimted amount of respoitories.
+
+
+9.) You should NEVER have a repository inside of another repository.
+
+10.) True. git staus allows the user to check the status of thier files.
 
 
 
